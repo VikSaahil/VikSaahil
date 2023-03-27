@@ -1,6 +1,6 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/projects/original/08d53492880429.Y3JvcCwxMjMxLDk2MywxMzQsNzY.gif)](https://viksaahil.io)
 <h1 align="center">Hey there ,I'm Vikas Saahil</h1>
-<h3 align="center">Exuberant Indian kid crazy for coding and data analytics :D</h3>
+<h3 align="center">:D</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzE3ZTEyZTI5NjNkOTAxNjcyYTRkYTZhMTIxYTM5MWMwZWIwNjQ1ZSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viksaahil&label=Profile%20views&color=0e75b6&style=flat" alt="viksaahil" /> </p>
